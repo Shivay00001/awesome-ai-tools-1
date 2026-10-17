@@ -20,6 +20,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Jasper AI](https://www.jasper.ai/)** - AI-based copywriting tool to generate blog posts, social media updates, and ad copy.
 - **[Phrasee](https://www.phrasee.co/)** - AI-powered platform for generating optimized marketing messages, including email and social media copy.
 - **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool for generating ad copy, product descriptions, and website content.
+- **[VisionQuantech AI Headline Tester](https://apps.visionquantech.com/ai-headline-tester/)** - Free AI tool that scores marketing headlines and suggests improvements for clarity and click-through. No signup required.
 - **[Writesonic](https://writesonic.com/)** - AI writing assistant for marketing content, blogs, and sales copy generation.
 - **[AI Story Book](https://aistorybook.app)** – Illustrated AI storybooks with tools for sharing on socials. Great for marketing through storytelling.
 
@@ -47,6 +48,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Storyshort.ai](https://www.storyshort.ai/)** - Create facless videos automatically with AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - Automates customer engagement on Facebook Messenger with AI-driven chatbots.
 - **[Lately](https://www.lately.ai/)** - AI tool that repurposes long-form content into social media posts optimized for different platforms.
+- **[VisionQuantech Hashtag Researcher](https://apps.visionquantech.com/hashtag-researcher/)** - Free hashtag research tool for social posts with relevance scoring. No signup required.
 
 ## Advertising
 
@@ -70,6 +72,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[MarketMuse](https://www.marketmuse.com/)** - AI content optimization tool that helps marketers improve SEO performance by analyzing content gaps and providing keyword suggestions.
 - **[Surfer SEO](https://surferseo.com/)** - AI-powered SEO tool for optimizing content and improving search engine rankings through on-page audits and suggestions.
 - **[Clearscope](https://www.clearscope.io/)** - AI-powered SEO platform that provides keyword insights and content optimization recommendations.
+- **[VisionQuantech SEO Auditor](https://apps.visionquantech.com/seo-auditor/)** - Free 13-point SEO audit on any website URL with prioritized fixes and explanations. No signup required.
 
 ## Customer Support
 
