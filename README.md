@@ -592,3 +592,11 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+## Built by VisionQuantech
+
+This project is built by [VisionQuantech](https://visionquantech.com/) — AI agents, websites & SEO for small business.
+
+Related guides:
+- [AI chatbot for small business](https://visionquantech.com/blog/ai-chatbot-for-small-business.html)
+- [small business automation tools](https://visionquantech.com/blog/small-business-automation-tools.html)
